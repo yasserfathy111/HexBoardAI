@@ -1,0 +1,2 @@
+build.sh builds the executable for linux machines, for windows please run g++ -O3 -std=c++11 HexBoard.cpp main.cpp NodeValue.cpp -o HexBoard.exe
+A simulation of 1000 trials on a 11*11 board takes around 30 seconds
